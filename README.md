@@ -1,8 +1,7 @@
 # brain-tumor-detection-xai
-MRI-based brain tumor classification using Ensemble Learning, EfficientNetB7, InceptionV3, Xception, and Grad-CAM++.
-# GitHub Repository Plans for Projects
 
-## 1. Brain Tumor Detection with Ensemble Learning and Explainable AI
+
+##  Brain Tumor Detection with Ensemble Learning and Explainable AI
 
 ### Repository Name
 
